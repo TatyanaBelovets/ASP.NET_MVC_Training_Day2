@@ -54,8 +54,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ASP.NET.Belovets.Day1\Task1.Library\Task1.Library.csproj">
-      <Project>{25f7ec00-0b32-4fcd-9100-8481a516f6b8}</Project>
+    <ProjectReference Include="..\Task1.Library\Task1.Library.csproj">
+      <Project>{F06F0B93-01E0-4D25-817E-E5728B38A365}</Project>
       <Name>Task1.Library</Name>
     </ProjectReference>
   </ItemGroup>
